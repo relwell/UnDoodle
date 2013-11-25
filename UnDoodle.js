@@ -1,5 +1,5 @@
-jQuery('#lga').remove();
+jQuery('#lga,#prm-pt').remove();
 
 jQuery(document).ready(function() {
-	jQuery('#lga').remove();
+	jQuery('#lga,#prm-pt').remove();
     });
